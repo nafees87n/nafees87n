@@ -1,7 +1,7 @@
 ### Heyy 👋
 
-- Undergraduate pursuing Integrated B.Tech.
-- 🔭 Currently exploring backend tech and open source.
+<!-- - Undergraduate pursuing Integrated B.Tech.
+- 🔭 Currently exploring backend tech and open source. -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nafees%20Nehar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nafees87n/)](https://www.linkedin.com/in/nafees87n/) [![GitHub followers](https://img.shields.io/github/followers/nafees87n?label=Follow&style=social)](https://github.com/nafees87n/?tab=follow) <a href="mailto:nafees87n@gmail.com?"><img src="https://img.shields.io/badge/-nafees87n@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:nafees87n@gmail.com"/> </a>
 
